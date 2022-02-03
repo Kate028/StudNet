@@ -1,0 +1,10 @@
+ /* here im adding some properties to body class like text colour and background color */
+body{
+    /*this will add text decoration colour if any avalible */
+    text-decoration: brown;
+    /*This colour tag will add colour to text*/
+    color: aquamarine;
+    /*backgroung colour will add background colour to whole body */
+    background-color: rgb(8, 70, 78);
+    outline: brown;
+}
